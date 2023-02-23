@@ -1,0 +1,61 @@
+ body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+} 
+
+.navBar {
+    background-color: #E6E6E6;
+}
+
+.nav-link {
+    font-size: smaller;
+    color: grey;
+    letter-spacing: 0.02rem;
+}
+
+#navbarNavDropdown {
+    justify-content: flex-end;
+    padding-right: 25px;
+}
+
+.navBarToggler {
+    justify-content: safe;
+}
+
+
+#bannerBox {
+    background: linear-gradient( rgba(0, 0, 0, 0.38), rgba(0, 0, 0, 0.3) ), url('https://2577343.fs1.hubspotusercontent-na1.net/hub/2577343/hubfs/new%20website%20hero%20background%20image%20%281%29.png?width=1440&name=new%20website%20hero%20background%20image%20%281%29.png');
+    background-size: cover;
+    opacity: 0.9;
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    justify-content: center;
+}
+
+.hire {
+    border-radius: 2px;
+    background-color: #0C63FF;
+    padding: .5rem;
+}
+
+#textContainer {
+    padding-top: 10rem;
+    margin-top: 4rem;
+    max-width: 60%;
+    
+}
+
+.bannerHead {
+color: white;
+font-weight: bold;
+
+}
+
+.bannerBody {
+    color: #FFFFFF;
+    font-weight: 300;
+    font-size: medium;
+    letter-spacing: .02rem;
+}

@@ -23,6 +23,14 @@
     justify-content: safe;
 }
 
+.show {
+    width: fit-content;
+}
+
+.dropdown-item {
+    font-size: 13px;
+}
+
 
 #bannerBox {
     background: linear-gradient( rgba(0, 0, 0, 0.38), rgba(0, 0, 0, 0.3) ), url('https://2577343.fs1.hubspotusercontent-na1.net/hub/2577343/hubfs/new%20website%20hero%20background%20image%20%281%29.png?width=1440&name=new%20website%20hero%20background%20image%20%281%29.png');
@@ -167,6 +175,59 @@ padding: 3rem 12rem 3rem 12rem;
     margin-right: -2rem;
     float: right;
     border: white solid 1px;
+}
+
+.footerContain{
+    border-bottom: 1px solid #87909e;
+    width: 100%;
+    margin-left: -2rem;
+}
+
+.footerLinkBox {
+    border-bottom: #c5cfe0 1px solid;
+}
+
+
+
+.socialIcons {
+    margin-top: -40px;
+    margin-left: 2rem;
+}
+
+
+.menuList li{
+    list-style: none;
+}
+
+.menuList {
+    margin: 0 -4rem 0 -4rem;
+}
+
+.menuBody {
+    color: #87909e;
+    font-size: 13px;
+}
+
+.menuList a:link{
+text-decoration: none;
+}
+
+.menuList a:visited {
+    text-decoration: none;
+}
+
+.menuList a:hover {
+    text-decoration: none;
+}
+
+.menuList a:active {
+    text-decoration: none;
+}
+
+.firstChild{
+    font-weight: 600;
+    color: black;
+    font-size: 16px;
 }
 
 

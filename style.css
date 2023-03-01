@@ -6,6 +6,7 @@
 
 .navBar {
     background-color: #E6E6E6;
+    max-width: 100%;
 }
 
 .nav-link {
@@ -168,6 +169,7 @@ padding: 3rem 12rem 3rem 12rem;
     height: 10rem;
     color: white;
     padding: 3rem;
+    max-width: auto;
 }
 
 .previewTalent {
@@ -200,7 +202,8 @@ padding: 3rem 12rem 3rem 12rem;
 }
 
 .menuList {
-    margin: 0 -4rem 0 -4rem;
+    padding-right: -4rem;
+    margin: 0;
 }
 
 .menuBody {

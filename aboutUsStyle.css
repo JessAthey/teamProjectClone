@@ -1,0 +1,115 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+} 
+
+.navBar {
+    background-color: #1a17e0;
+}
+
+.nav-link {
+    font-size: smaller;
+    color: grey;
+    letter-spacing: 0.02rem;
+}
+
+#navbarNavDropdown {
+    justify-content: flex-end;
+    padding-right: 12px;
+}
+
+.navBarToggler {
+    justify-content: safe;
+}
+
+.show {
+    width: fit-content;
+}
+
+.dropdown-item {
+    font-size: 13px;
+}
+
+
+.bluebox {
+    background-color: #0d62ff;
+}
+
+.mainParagraph {
+    font-size: 16px;
+    color: #87909e;
+}
+
+.aboutHeader { 
+    padding-top: 4rem;
+     color: white;
+     font-weight: 600;
+     font-size: 35px;
+     padding-bottom: 17.5px;
+
+}
+.lead{ padding-bottom: 8rem;
+     color: white;
+
+}
+
+.slogan {
+    
+    font-weight: 600;
+    margin-top: 6rem;
+    margin-left: -2rem;
+}
+.footerContain{
+    border-bottom: 1px solid #87909e;
+    width: 100%;
+    margin-left: -2rem;
+}
+
+.footerLinkBox {
+    border-bottom: #c5cfe0 1px solid;
+}
+
+
+
+.socialIcons {
+    margin-top: -40px;
+    margin-left: 2rem;
+}
+
+
+.menuList li{
+    list-style: none;
+}
+
+.menuList {
+    margin: 0 -4rem 0 -4rem;
+}
+
+.menuBody {
+    padding: .1rem;
+    color: #87909e;
+    font-size: 13px;
+}
+
+.menuList a:link{                                                                                
+text-decoration: none;
+}   
+
+.menuList a:visited {
+    text-decoration: none;
+}
+
+.menuList a:hover {
+    text-decoration: none;
+}
+
+.menuList a:active {
+    text-decoration: none;
+}
+
+.firstChild{
+    font-weight: 600;
+    color: black;
+    font-size: 16px;
+}
